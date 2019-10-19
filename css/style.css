@@ -1,0 +1,32 @@
+.header {
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-group {
+    margin-top: 10px;
+}
+
+.breadcrumb {
+    margin-top: 25px;
+}
+
+.cards {
+    margin-top: 20px;
+}
+
+.pagination {
+    justify-content: center;
+}
+
+.gallery {
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+
+
+.col-md-12 {
+    justify-content: center; 
+}
+
